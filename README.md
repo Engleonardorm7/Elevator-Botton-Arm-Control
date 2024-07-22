@@ -70,6 +70,6 @@ python main.py
 
 <div align="center">
     <a href="Videos/RoboticArm2.mp4" target="_blank">
-        <img src="images/video-thumbnail.png" alt="Video Thumbnail" width="800">
+        <img src="Videos/Ned2.jpg" alt="Video" width="200">
     </a>
 </div>
