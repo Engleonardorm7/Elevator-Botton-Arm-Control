@@ -1,7 +1,7 @@
 # Niryo Ned2 Robot for Elevator Button Detection
 
 <div align="center">
-    <img src="Videos/Ned2.jpg" alt="Cover Image" width="200">
+    <img src="Videos/Ned2.2.jpg" alt="Cover Image" width="200">
 </div>
 
 
@@ -68,8 +68,9 @@ python main.py
 ```
 ## Video Demonstration
 
+You will find some demo videos in the Videos folder
+
+
 <div align="center">
-    <a href="Videos/RoboticArm2.mp4" target="_blank">
-        <img src="Videos/Ned2.jpg" alt="Video" width="200">
-    </a>
+    <img src="Videos/Ned2.3.jpg" alt="Cover Image" width="200">
 </div>
