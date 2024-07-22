@@ -1,7 +1,7 @@
 # Niryo Ned2 Robot for Elevator Button Detection
 
 <div align="center">
-    <img src="Videos/Ned2.2.jpg" alt="Cover Image" width="200">
+    <img src="Videos/Ned2.2.jpg" alt="Cover Image" width="300">
 </div>
 
 
@@ -72,5 +72,5 @@ You will find some demo videos in the Videos folder
 
 
 <div align="center">
-    <img src="Videos/Ned2.3.jpg" alt="Cover Image" width="200">
+    <img src="Videos/Ned2.3.jpg" alt="Cover Image" width="300">
 </div>
