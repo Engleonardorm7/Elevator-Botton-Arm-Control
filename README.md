@@ -1,7 +1,7 @@
-# Elevator-Button-Arm-Control
+# Niryo Ned2 Robot for Elevator Button Detection
 
 
-<img src="Videos/Ned2.jpg" alt="Cover Image" width="400">
+<img src="Videos/Ned2.jpg" alt="Cover Image" width="200">
 
 
 
@@ -66,7 +66,8 @@ pip install -r /path/to/requirements.txt
 ```
 python main.py 
 ```
-<!-- Video Thumbnail -->
+## Video Demonstration
+
+[Watch the video](Videos/RoboticArm2.mp4)
+
 <a href="Videos/RoboticArm2.mp4" target="_blank">
-    <img src="images/video-thumbnail.png" alt="Video Thumbnail" width="800">
-</a>
