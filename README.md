@@ -1,5 +1,8 @@
 # Elevator-Button-Arm-Control
 
+![Cover Image](Videos/Ned2.jpg)
+
+
 This project controls the Niryo Ned2 robotic arm using a YOLO image detection model to detect and press elevator buttons.
 
 ## Project Description
@@ -61,9 +64,3 @@ pip install -r /path/to/requirements.txt
 ```
 python main.py 
 ```
-## Video Demonstration
-
-<video width="600" controls>
-  <source src="Videos/RoboticArm.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
