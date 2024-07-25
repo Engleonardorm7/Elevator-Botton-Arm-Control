@@ -10,7 +10,7 @@ from PIL import Image, ImageOps
 from pressed_non_pressed_detection import load_model, predict
 
 # Load the pressed/non-pressed model
-weights_path = '/media/asmany/Drive_D/Elevator-Botton-Arm-Control/Pressed_NonPressed_model/best_model_weights.pth'
+weights_path = 'Pressed_NonPressed_model/best_model_weights.pth'
 pressed_model = load_model(weights_path)
 
 # Set the TESSDATA_PREFIX environment variable
@@ -23,7 +23,7 @@ if not tessdata_prefix or not os.path.exists(tessdata_prefix):
     raise EnvironmentError(f"TESSDATA_PREFIX is not set correctly or the directory does not exist: {tessdata_prefix}")
 
 # Load YOLOv5 model
-yolo_model = torch.hub.load('ultralytics/yolov5', 'custom', path='/media/asmany/Drive_D/Elevator-Botton-Arm-Control/yolov5/runs/train/exp3/weights/best.pt')
+yolo_model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5/runs/train/exp3/weights/best.pt')
 
 def preprocess_image(image):
     # Convert to grayscale
